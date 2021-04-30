@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Visual Studio\MPI_University\MPI_Laboratory\Barrier_Communication\src\main.cpp(8,13): warning C4101: 'status': unreferenced local variable
+D:\Visual Studio\MPI_University\MPI_Laboratory\Barrier_Communication\src\main.cpp(9,18): warning C4101: 'flag': unreferenced local variable
+  Barrier_Communication.vcxproj -> D:\Visual Studio\MPI_University\MPI_Laboratory\x64\Debug\Barrier_Communication.exe

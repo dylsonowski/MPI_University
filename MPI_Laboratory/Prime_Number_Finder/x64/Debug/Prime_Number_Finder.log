@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Visual Studio\MPI_University\MPI_Laboratory\Prime_Number_Finder\src\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Visual Studio\MPI_University\MPI_Laboratory\Prime_Number_Finder\src\main.cpp(28,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Prime_Number_Finder.vcxproj -> D:\Visual Studio\MPI_University\MPI_Laboratory\x64\Debug\Prime_Number_Finder.exe
