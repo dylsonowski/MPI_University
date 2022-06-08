@@ -1,1 +1,20 @@
-﻿  PCiDS_MPI_Project.vcxproj -> D:\Visual Studio\MPI_University\MPI_Laboratory\x64\Debug\PCiDS_MPI_Project.exe
+﻿Build started 6/8/2022 1:01:47 PM.
+Logging verbosity is set to: Normal.     1>Project "C:\Users\mdyla\source\repos\MPI_University\MPI_Laboratory\PCiDS_MPI_Project\PCiDS_MPI_Project.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\PCiDS_MP.190f6207.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\CL.exe /c /I"C:\Program Files (x86)\Microsoft SDKs\MPI\Include\\" /I"C:\Program Files (x86)\Microsoft SDKs\MPI\Include\\x64" /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt src\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mdyla\source\repos\MPI_University\MPI_Laboratory\x64\Debug\PCiDS_MPI_Project.exe" /INCREMENTAL /ILK:"x64\Debug\PCiDS_MPI_Project.ilk" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\\" msmpi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mdyla\source\repos\MPI_University\MPI_Laboratory\x64\Debug\PCiDS_MPI_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mdyla\source\repos\MPI_University\MPI_Laboratory\x64\Debug\PCiDS_MPI_Project.lib" /MACHINE:X64 x64\Debug\main.obj
+         PCiDS_MPI_Project.vcxproj -> C:\Users\mdyla\source\repos\MPI_University\MPI_Laboratory\x64\Debug\PCiDS_MPI_Project.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\PCiDS_MP.190f6207.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\PCiDS_MP.190f6207.tlog\PCiDS_MPI_Project.lastbuildstate".
+     1>Done Building Project "C:\Users\mdyla\source\repos\MPI_University\MPI_Laboratory\PCiDS_MPI_Project\PCiDS_MPI_Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.03
